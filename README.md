@@ -49,8 +49,7 @@ express-jwt-api/
 └── server.js                 # Main entry point
 
 
-***
-Essential : Create a .env file in the root directory (refer to .env.example):
+##Essential : Create a .env file in the root directory:
 
 PORT=5000
 MONGO_URI=your_mongodb_connection_string
